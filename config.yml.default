@@ -1,0 +1,11 @@
+# Repository URL
+url: "https://github.com/USERNAME/REPOSITORY"
+
+# self-hosted Runner token
+token: YOURRUNNERTOKEN
+
+# Name of the Runner
+name: typst-runner
+
+# additional Labels
+labels: "alpine, typst"
